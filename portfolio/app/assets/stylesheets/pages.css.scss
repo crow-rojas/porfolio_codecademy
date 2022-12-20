@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-image: url("https://images.wallpaperscraft.com/image/single/rails_railroad_coast_222297_1920x1080.jpg");
+  background-size: cover;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  padding: 20px;
+}
